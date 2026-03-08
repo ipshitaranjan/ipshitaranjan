@@ -83,11 +83,11 @@ Scalable background job processing system with worker architecture.
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipshitaranjan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ipshitaranjan&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ipshitaranjan&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ipshitaranjan&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipshitaranjan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ipshitaranjan&layout=compact&theme=radical)
 
 ---
 
