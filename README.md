@@ -81,14 +81,17 @@ Scalable background job processing system with worker architecture.
 - Implemented layouts using **Flexbox and Grid**
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipshitaranjan&show_icons=true&theme=radical&cache_seconds=1800)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ipshitaranjan&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=ipshitaranjan&show_icons=true&theme=radical" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipshitaranjan&layout=compact&theme=radical)
+<img src="https://streak-stats.demolab.com?user=ipshitaranjan&theme=radical" height="170"/>
+
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipshitaranjan&layout=compact&theme=radical" />
 
 ---
 
