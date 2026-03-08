@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Ipshita;AI+ML+Enthusiast;C%2B%2B+Developer;Future+Software+Engineer)
 # Hi 👋 I'm Ipshita
 
 🎓 Engineering Student  
