@@ -1,12 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Backend+Focused+Fullstack+Developer;Learning+AI+ML;Practicing+DSA)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Backend+Focused+Fullstack+Developer;Currently+learning+AI+ML;Practicing+DSA)
 # Hi 👋 I'm Ipshita Ranjan
 
-• 💻 Aspiring **Software Engineer (SDE/SWE)**  
-• ⚙️ Full-stack developer with a strong interest in **backend systems** 
-• 🚀 Passionate about building scalable and production-ready applications
-• 🎯 Actively seeking **Software Engineering Internship opportunities**
-• 🤖 Currently exploring **AI/ML**  
-• 🧠 Practicing **Data Structures & Algorithms**  
+- 💻 Aspiring **Software Engineer**
+- ⚙️ Full-stack developer with a strong interest in **backend systems**
+- 🚀 Passionate about building scalable and production-ready applications
+- 🎯 Actively seeking **Software Engineering Internship opportunities**
+- 🤖 Currently exploring **AI/ML**
+- 🧠 Practicing **Data Structures & Algorithms**
 
 ---
 
@@ -84,11 +84,11 @@ Scalable background job processing system with worker architecture.
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=ipshitaranjan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipshitaranjan&show_icons=true&theme=radical&cache_seconds=1800)
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=ipshitaranjan&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ipshitaranjan&theme=radical)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipshitaranjan&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipshitaranjan&layout=compact&theme=radical)
 
 ---
 
